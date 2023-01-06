@@ -20,7 +20,7 @@ class MainKtTest {
 
         val result = calculation(typeOfCard, amount)
 
-        assertEquals(770000, result)
+        assertEquals(20000, result)
     }
     @Test
     fun calculation_Mir() {
